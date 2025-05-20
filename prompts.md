@@ -1,10 +1,7 @@
-# Basic Prompts 
+# Basic Prompts
 
-### Promp1 
+### Prompt 1
 
-```
-act as data engineer / data analyst who is also having knowledge in programming algo and having customer project handling experience in the same domain ,
-
-now create 16 hour table to content to deliver generative ai training to python developer
-
-```
+> Act as a data engineer/data analyst with programming algorithm expertise and customer project handling experience in this domain.
+>
+> Now, create a 16-hour table of contents to deliver Generative AI training to Python developers.
