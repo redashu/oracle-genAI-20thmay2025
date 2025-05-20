@@ -18,3 +18,12 @@
 ## chagpt vs platform openai 
 
 <img src="fm3.png">
+
+## Prompt crafting structure 
+
+<img src="fm4.png">
+
+### some advanced prompting tech
+
+<img src="fm5.png">
+
