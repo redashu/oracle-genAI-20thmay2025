@@ -6,3 +6,11 @@
 ## AI & GENAI 
 
 <img src="ai2.png">
+
+## info about Foundational Model 
+
+<img src="fm1.png">
+
+## final FM info 
+
+<img src="fm2.png">
