@@ -1,1 +1,9 @@
-# oracle-genAI-20thmay2025
+## GenAI -- Agentic flows
+
+### Timings 
+
+<img src="time.png">
+
+### labs info 
+
+<img src="lab.png">

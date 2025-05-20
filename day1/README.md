@@ -1,0 +1,1 @@
+# oracle-genAI-20thmay2025
