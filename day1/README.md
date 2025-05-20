@@ -14,3 +14,7 @@
 ## final FM info 
 
 <img src="fm2.png">
+
+## chagpt vs platform openai 
+
+<img src="fm3.png">
