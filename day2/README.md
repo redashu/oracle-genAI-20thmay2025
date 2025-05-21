@@ -32,3 +32,8 @@ TicketID,cateogry,Ticktext message
 1, Password reset ,  i can't login to my account . please help me to reset my password.
 2, Techinical Issue , the app keeps crashing when ever i try to open it .
 ```
+
+## understanding using external data in GenAI models 
+
+<img src="custom1.png">
+
