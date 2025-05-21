@@ -17,3 +17,7 @@
 ## info about GENAI tools and openai offering tools
 
 <img src="rev4.png">
+
+## using AI as PM in customer / user conversation / ticket data 
+
+<img src="tk1.png">
