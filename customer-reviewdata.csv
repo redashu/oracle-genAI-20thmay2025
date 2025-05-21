@@ -1,0 +1,201 @@
+TicketID,category,TicketText message
+1,Password reset,I can't login to my account. Please help me to reset my password.
+2,Technical Issue,The app keeps crashing whenever I try to open it.
+3,Billing Issue,I was charged twice for my subscription this month.
+4,Account Access,I forgot my username and can't access the dashboard.
+5,Feature Request,It would be great to have dark mode in the app.
+6,Technical Issue,Getting a 404 error when I click on the settings page.
+7,Password reset,Need to update my password but the link is not working.
+8,Billing Issue,I cancelled my subscription but I still got billed.
+9,General Inquiry,How can I change the email associated with my account?
+10,Account Access,I'm being asked for 2FA code but never set it up.
+11,Technical Issue,The app freezes on the loading screen.
+12,Password reset,Reset password email not received.
+13,Billing Issue,Why was my card declined for payment?
+14,Feature Request,Please add multi-language support.
+15,Account Access,Locked out after too many failed login attempts.
+16,General Inquiry,What is your refund policy?
+17,Technical Issue,Push notifications are not working.
+18,Password reset,Password reset link expired before I could use it.
+19,Billing Issue,Need an invoice for last month's payment.
+20,Feature Request,Can you add a calendar integration?
+21,Account Access,Can't verify my phone number.
+22,General Inquiry,How do I delete my account?
+23,Technical Issue,Audio is not working during video calls.
+24,Password reset,My password was changed without my knowledge.
+25,Billing Issue,Charged for a plan I didn't subscribe to.
+26,Feature Request,Add support for exporting data to CSV.
+27,Account Access,Account suspended without explanation.
+28,General Inquiry,Is there a mobile version of the app?
+29,Technical Issue,App crashes when uploading files.
+30,Password reset,Can't remember security questions for password reset.
+31,Billing Issue,Need to update my billing address.
+32,Feature Request,Please add a dark theme for accessibility.
+33,Account Access,Can't link my social media account.
+34,General Inquiry,How do I contact customer support?
+35,Technical Issue,Frequent disconnects from the server.
+36,Password reset,Reset link leads to a blank page.
+37,Billing Issue,Refund not processed after cancellation.
+38,Feature Request,Add biometric login support.
+39,Account Access,Can't change my profile picture.
+40,General Inquiry,What are your business hours?
+41,Technical Issue,App not compatible with my device.
+42,Password reset,Password reset option missing on login page.
+43,Billing Issue,Received a payment reminder after paying.
+44,Feature Request,Add a widget for quick access.
+45,Account Access,Can't update my contact information.
+46,General Inquiry,Do you offer student discounts?
+47,Technical Issue,Slow performance after latest update.
+48,Password reset,Reset email goes to spam folder.
+49,Billing Issue,Double charged for annual subscription.
+50,Feature Request,Add offline mode.
+51,Account Access,Can't deactivate my account.
+52,General Inquiry,How do I enable two-factor authentication?
+53,Technical Issue,App doesn't sync across devices.
+54,Password reset,Reset link not working on mobile.
+55,Billing Issue,Incorrect amount charged this month.
+56,Feature Request,Add support for custom notifications.
+57,Account Access,Can't remove old devices from my account.
+58,General Inquiry,How do I change my username?
+59,Technical Issue,App closes unexpectedly during use.
+60,Password reset,Can't reset password due to captcha error.
+61,Billing Issue,Subscription auto-renewed without notice.
+62,Feature Request,Add integration with Google Drive.
+63,Account Access,Can't access premium features after upgrade.
+64,General Inquiry,Is there a desktop version available?
+65,Technical Issue,App doesn't load on Wi-Fi.
+66,Password reset,Reset email contains broken link.
+67,Billing Issue,Charged after free trial ended.
+68,Feature Request,Add voice command support.
+69,Account Access,Can't update my email address.
+70,General Inquiry,How do I unsubscribe from emails?
+71,Technical Issue,App not responding to touch input.
+72,Password reset,Reset link expired immediately.
+73,Billing Issue,Need to change payment method.
+74,Feature Request,Add support for Apple Watch.
+75,Account Access,Can't log in with Facebook.
+76,General Inquiry,How do I recover deleted data?
+77,Technical Issue,App displays error code 500.
+78,Password reset,Can't reset password due to server error.
+79,Billing Issue,Refund request denied.
+80,Feature Request,Add a built-in calculator.
+81,Account Access,Can't set up security questions.
+82,General Inquiry,How do I update my profile?
+83,Technical Issue,App doesn't recognize my location.
+84,Password reset,Reset link not received after multiple attempts.
+85,Billing Issue,Charged for add-ons I didn't purchase.
+86,Feature Request,Add support for multiple accounts.
+87,Account Access,Can't change my phone number.
+88,General Inquiry,How do I export my data?
+89,Technical Issue,App crashes during checkout.
+90,Password reset,Reset link leads to error page.
+91,Billing Issue,Payment failed but money deducted.
+92,Feature Request,Add support for QR code login.
+93,Account Access,Can't access account after password change.
+94,General Inquiry,How do I enable notifications?
+95,Technical Issue,App doesn't display images.
+96,Password reset,Reset email not delivered.
+97,Billing Issue,Charged for cancelled subscription.
+98,Feature Request,Add support for recurring reminders.
+99,Account Access,Can't update my address.
+100,General Inquiry,How do I change my subscription plan?
+101,Technical Issue,App freezes when opening messages.
+102,Password reset,Reset link not working on desktop.
+103,Billing Issue,Incorrect billing cycle.
+104,Feature Request,Add support for exporting to PDF.
+105,Account Access,Can't remove secondary email.
+106,General Inquiry,How do I contact technical support?
+107,Technical Issue,App doesn't save my preferences.
+108,Password reset,Reset link not sent to my email.
+109,Billing Issue,Charged for upgrade I didn't request.
+110,Feature Request,Add support for custom avatars.
+111,Account Access,Can't access account after verification.
+112,General Inquiry,How do I change my password?
+113,Technical Issue,App doesn't update automatically.
+114,Password reset,Reset link not working in browser.
+115,Billing Issue,Refund not received after 7 days.
+116,Feature Request,Add support for group chats.
+117,Account Access,Can't update my payment information.
+118,General Inquiry,How do I download my data?
+119,Technical Issue,App doesn't display notifications.
+120,Password reset,Reset link leads to login page.
+121,Billing Issue,Charged for extra users.
+122,Feature Request,Add support for calendar sync.
+123,Account Access,Can't change my security settings.
+124,General Inquiry,How do I close my account?
+125,Technical Issue,App doesn't load after update.
+126,Password reset,Reset link not working on iOS.
+127,Billing Issue,Charged for features not used.
+128,Feature Request,Add support for custom themes.
+129,Account Access,Can't access account after device change.
+130,General Inquiry,How do I update my billing info?
+131,Technical Issue,App doesn't display correct time zone.
+132,Password reset,Reset link not working on Android.
+133,Billing Issue,Charged for duplicate accounts.
+134,Feature Request,Add support for push-to-talk.
+135,Account Access,Can't update my profile photo.
+136,General Inquiry,How do I change my notification settings?
+137,Technical Issue,App doesn't display search results.
+138,Password reset,Reset link not working in app.
+139,Billing Issue,Charged after account closure.
+140,Feature Request,Add support for custom shortcuts.
+141,Account Access,Can't access account after password reset.
+142,General Inquiry,How do I change my language settings?
+143,Technical Issue,App doesn't display correct currency.
+144,Password reset,Reset link not working on web.
+145,Billing Issue,Charged for expired subscription.
+146,Feature Request,Add support for voice messages.
+147,Account Access,Can't update my email preferences.
+148,General Inquiry,How do I change my display name?
+149,Technical Issue,App doesn't display notifications on lock screen.
+150,Password reset,Reset link not working after multiple attempts.
+151,Billing Issue,Charged for plan downgrade.
+152,Feature Request,Add support for custom ringtones.
+153,Account Access,Can't access account after email change.
+154,General Inquiry,How do I change my contact info?
+155,Technical Issue,App doesn't display correct date.
+156,Password reset,Reset link not working after reset.
+157,Billing Issue,Charged for plan upgrade.
+158,Feature Request,Add support for custom widgets.
+159,Account Access,Can't update my security questions.
+160,General Inquiry,How do I change my account type?
+161,Technical Issue,App doesn't display correct user info.
+162,Password reset,Reset link not working after login.
+163,Billing Issue,Charged for plan renewal.
+164,Feature Request,Add support for custom backgrounds.
+165,Account Access,Can't access account after phone number change.
+166,General Inquiry,How do I change my subscription settings?
+167,Technical Issue,App doesn't display correct plan.
+168,Password reset,Reset link not working after logout.
+169,Billing Issue,Charged for plan cancellation.
+170,Feature Request,Add support for custom icons.
+171,Account Access,Can't update my account settings.
+172,General Inquiry,How do I change my payment method?
+173,Technical Issue,App doesn't display correct billing info.
+174,Password reset,Reset link not working after verification.
+175,Billing Issue,Charged for plan suspension.
+176,Feature Request,Add support for custom notifications sounds.
+177,Account Access,Can't access account after subscription change.
+178,General Inquiry,How do I change my account password?
+179,Technical Issue,App doesn't display correct subscription info.
+180,Password reset,Reset link not working after account recovery.
+181,Billing Issue,Charged for plan reactivation.
+182,Feature Request,Add support for custom login screens.
+183,Account Access,Can't update my account password.
+184,General Inquiry,How do I change my account email?
+185,Technical Issue,App doesn't display correct account info.
+186,Password reset,Reset link not working after password change.
+187,Billing Issue,Charged for plan extension.
+188,Feature Request,Add support for custom splash screens.
+189,Account Access,Can't access account after password update.
+190,General Inquiry,How do I change my account username?
+191,Technical Issue,App doesn't display correct user settings.
+192,Password reset,Reset link not working after email change.
+193,Billing Issue,Charged for plan transfer.
+194,Feature Request,Add support for custom login methods.
+195,Account Access,Can't update my account email.
+196,General Inquiry,How do I change my account security settings?
+197,Technical Issue,App doesn't display correct notification settings.
+198,Password reset,Reset link not working after security update.
+199,Billing Issue,Charged for plan migration.
+200,Feature Request,Add support for custom account types.
