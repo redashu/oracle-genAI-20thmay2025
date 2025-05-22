@@ -37,3 +37,19 @@ TicketID,cateogry,Ticktext message
 
 <img src="custom1.png">
 
+## case2 -- using system (LLM) prompt as file data 
+
+
+<img src="custom2.png">
+
+### External file option in Gemini 
+
+<img src="custom3.png">
+
+## Fine tuning Foundational model incase of large dataset 
+
+<img src="custom4.png">
+
+## fine tuning non openai model using hugging face platform 
+
+<img src="custom5.png">

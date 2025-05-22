@@ -8,8 +8,9 @@
 
 <img src="lab.png">
 
-## VMS password is 
+## aws cloud details
 
 ```
+https://delvexdrive.signin.aws.amazon.com/console
 Lab@12345#
 ```
