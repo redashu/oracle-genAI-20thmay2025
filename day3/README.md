@@ -33,3 +33,34 @@ analyze the sentiment of these 300 support tickets and tell me which category ha
 based on these support tickets , generate sample response template for the top 3 frequent customers issues to improve support and other points
 
 ```
+
+## Understanding agentic AI tools 
+
+<img src="agent1.png">
+
+
+### some popular agentic ai workflow tools 
+
+<img src="agent2.png">
+
+## starting with flowise 
+
+[click_to_access](https://github.com/FlowiseAI/Flowise)
+
+## Model parameter understanding 
+
+<img src="param1.png">
+
+### prompt template 
+
+```
+Extract Following information from
+the provided Invoice:
+- Invoice Number
+- customer number including VAT
+- gross amount 
+
+invoce content:
+{invoice}
+
+```
