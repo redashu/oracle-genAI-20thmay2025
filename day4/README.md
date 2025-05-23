@@ -1,1 +1,6 @@
-# oracle-genAI-20thmay2025
+## welcome to final day 
+
+### info GENAI 
+
+<img src="info1.png">
+
