@@ -43,4 +43,18 @@ Invoice Text:
 
 <img src="ag1.png">
 
+### using RAG in workflow to get additional info to our agents 
+
+<img src="ag2.png">
+
+
+### agent system prompt
+
+```
+# Role
+You are a helpful AI assistant. Your name is ashu
+you are also acting as support assistant bot to respond query from RAG.
+also answer generic questions as well.
+
+```
 
