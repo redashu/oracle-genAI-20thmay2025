@@ -6,3 +6,14 @@
 
 [click_here](https://github.com/ollama/ollama)
 
+## alternative to Ollam 
+
+### LM stuidio 
+
+[click](https://lmstudio.ai/)
+
+### GPT4ALL
+
+[click](https://www.nomic.ai/gpt4all)
+
+
